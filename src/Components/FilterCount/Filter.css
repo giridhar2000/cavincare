@@ -1,0 +1,247 @@
+.filter {
+    display: flex;
+    width: 100%;
+}
+
+.filterFormImg img {
+    width: 250px;
+    height: 300px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-block: 3vh;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2vh;
+}
+
+.form-label{
+    display: flex;
+    padding-block: 4px;
+    padding-inline: 10px;
+}
+
+/* .form .formInput {
+    width: 90%;
+} */
+
+.filterFormBody {
+    display: flex;
+    justify-content: space-between;
+    padding-block: 2vh;
+    gap: 5vh;
+}
+
+.ageInput {
+    width: 15%;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.form-group {
+    overflow-y: scroll;
+    height: 55vh;
+    padding-right: 2vh;
+}
+
+.filter-bg {
+    border-radius: 2vh;
+    padding: 2vh;
+    margin-top: 2vh;
+}
+
+.gray-bg {
+    background-color: rgb(247 247 247 / 90%);
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(rgba(236, 182, 130, 1), rgba(224, 132, 56, 1));
+}
+
+.filterFormData {
+    display: flex;
+}
+
+.filterGenderData {
+    display: flex;
+}
+
+.ageForm {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.genders {
+    display: flex;
+    justify-content: space-between;
+}
+
+.filterForm {
+    display: flex;
+    flex-direction: column;
+    padding: 3vh;
+    background-color: white;
+    border-top-left-radius: 3vh;
+    border-top-right-radius: 3vh;
+    padding-block: 2vh;
+    margin-block: 2vh;
+    margin-inline: 1vh;
+}
+
+.mainForm {
+    width: 70%;
+    height: 78vh;
+}
+
+.filtered {
+    width: 35%;
+    height: 78vh;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.filteredDataContent {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.resultsHere {
+    color: rgba(0, 0, 0, 0.6);
+    margin: 11vh;
+    margin-block: 25vh;
+}
+
+.continueBtn {
+    margin-left: 89%;
+    width: 181px;
+    border-radius: 5px;
+    border: 1px;
+    gap: 8px;
+
+}
+
+.btnStyle {
+    width: 181px;
+    height: 35px;
+    padding: 10px, 52px, 10px, 53px;
+    border-radius: 5px;
+    border: 1px;
+    margin-left: auto;
+    background: linear-gradient(rgba(236, 182, 130, 1), rgba(224, 132, 56, 1));
+    color: white;
+    font-family: 'Montserrat';
+    cursor: pointer;
+
+}
+
+.formInput {
+    padding-block: 7px;
+    padding-inline: 10px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    outline: none;
+}
+
+.genderClass {
+    display: flex;
+    gap: 1vh;
+}
+
+.filterFormHeader {
+    display: flex;
+    gap: 2vh;
+    margin-bottom: 2vh;
+    font-size: small;
+
+}
+
+.filteredDataBody hr {
+    border: 0.1px solid rgba(220, 220, 222, 1);
+}
+
+.filterFormTitle hr {
+    border: 0.1px solid rgba(220, 220, 222, 1);
+}
+
+.clearBtn {
+    width: 181px;
+    height: 35px;
+    padding: 10px, 52px, 10px, 53px;
+    border-radius: 5px;
+    border: 1px;
+    margin-inline: 2vh;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat';
+    cursor: pointer;
+}
+
+.btnAlign {
+    margin-left: auto;
+
+}
+
+.tableHeader {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(224, 132, 56, 0.8);
+    align-items: center;
+    color: white;
+    border-radius: 1vh;
+}
+
+.tableHeader span {
+    padding-left: 2vh;
+    padding-block: 2vh;
+}
+
+.tableHeader img {
+    padding-right: 2vh;
+}
+
+.sendBtn {
+    width: 181px;
+    height: 35px;
+    padding: 10px, 52px, 10px, 53px;
+    border-radius: 5px;
+    border: 1px;
+    margin-left: auto;
+    background: linear-gradient(rgba(236, 182, 130, 1), rgba(224, 132, 56, 1));
+    color: white;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    float: right;
+    margin-bottom: 2vh;
+
+}
+
+.datatable .ant-table-thead .ant-table-cell {
+    background: linear-gradient(#ECB682, #E08438, #E08438) !important;
+    color: white !important;
+
+}
+
+.datatable {
+    border: 1px solid rgba(250, 206, 153, 1);
+    border-radius: 7px;
+    padding: 3px;
+}

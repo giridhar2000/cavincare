@@ -1,0 +1,31 @@
+{
+    "statusCode": 200,
+    "status": "success",
+    "data": {
+        "sec": [
+            "C",
+            "B"
+        ],
+        "Zone": {
+            "West": {
+                "Maharashtra": [
+                    "Mumbai"
+                ]
+            },
+            "South": {
+                "Karnataka": [
+                    "Bengaluru"
+                ],
+                "Tamil Nadu": [
+                    "Chennai"
+                ]
+            },
+            "North": {
+                "Delhi": [
+                    "Agra"
+                ]
+            }
+        }
+    },
+    "timeStamp": "2024-02-21T06:49:14.927+00:00"
+}

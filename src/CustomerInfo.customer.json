@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "65d57f025901126435dbb7bd"
+  },
+  "uniqueID": "ID01",
+  "name": "Sundar",
+  "gender": "Male",
+  "phoneNum": "8989678490",
+  "age": "21",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Shampoo, Hair Color, Face Wash",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65d57f025901126435dbb7be"
+  },
+  "uniqueID": "ID02",
+  "name": "Rahul",
+  "gender": "Male",
+  "phoneNum": "8989678490",
+  "age": "23",
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Conditioner",
+  "ecomShopper": "No"
+},
+{
+  "_id": {
+    "$oid": "65d57f025901126435dbb7bf"
+  },
+  "uniqueID": "ID03",
+  "name": "Reeshma",
+  "gender": "Female",
+  "phoneNum": "8989678490",
+  "age": "22",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "zone": "West",
+  "sec": "B",
+  "categoryProductUsage": "Face Serum,  Face Toner",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65d57f025901126435dbb7c0"
+  },
+  "uniqueID": "ID04",
+  "name": "Vignesh",
+  "gender": "Male",
+  "phoneNum": "8989678490",
+  "age": "23",
+  "state": "Delhi",
+  "city": "Agra",
+  "zone": "North",
+  "sec": "C",
+  "categoryProductUsage": "Sunscreen, Hair Shampoo",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65d79e4a26ddd15b46b3f0aa"
+  },
+  "uniqueID": "ID05",
+  "name": "Rahul",
+  "gender": "Male",
+  "phoneNum": "8989678490",
+  "age": "22",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Shampoo, Hair Color, Face Wash",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65d8292426ddd15b46b3f0ac"
+  },
+  "uniqueID": "ID06",
+  "name": "choco",
+  "gender": "Male",
+  "phoneNum": "8989678090",
+  "age": "24",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "B",
+  "categoryProductUsage": "Face Serum,  Face Toner",
+  "ecomShopper": "No"
+},
+{
+  "_id": {
+    "$oid": "65d8298426ddd15b46b3f0ad"
+  },
+  "uniqueID": "ID07",
+  "name": "Gwenan",
+  "gender": "Female",
+  "phoneNum": "8009678490",
+  "age": "23",
+  "state": "Delhi",
+  "city": "Agra",
+  "zone": "North",
+  "sec": "B",
+  "categoryProductUsage": "Face Serum,  Face Toner",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8acb26ddd15b46b3f0b4"
+  },
+  "uniqueID": "ID07",
+  "name": "Sundari",
+  "gender": "Female",
+  "phoneNum": "8989678499",
+  "age": "22",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Shampoo, Hair Color, Face Wash",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8e6526ddd15b46b3f0b7"
+  },
+  "uniqueID": "ID08",
+  "name": "Kate",
+  "gender": "Female",
+  "phoneNum": "8989678488",
+  "age": "21",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Shampoo, Hair Color, Face Wash",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8ebf26ddd15b46b3f0b8"
+  },
+  "uniqueID": "ID08",
+  "name": "Kathy",
+  "gender": "Female",
+  "phoneNum": "8989668488",
+  "age": "24",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Shampoo, Hair Color, Face Wash",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8eec26ddd15b46b3f0b9"
+  },
+  "uniqueID": "ID08",
+  "name": "Gopal",
+  "gender": "Male",
+  "phoneNum": "8989678488",
+  "age": "28",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Shampoo, Hair Color, Face Wash",
+  "ecomShopper": "No"
+},
+{
+  "_id": {
+    "$oid": "65dd8f5a26ddd15b46b3f0bb"
+  },
+  "uniqueID": "ID10",
+  "name": "Emma",
+  "gender": "Female",
+  "phoneNum": "8989678466",
+  "age": "25",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "zone": "West",
+  "sec": "A",
+  "categoryProductUsage": "Perfume, Lipstick, Moisturizer",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8e6526ddd15b46b3f0ba"
+  },
+  "uniqueID": "ID11",
+  "name": "Michael",
+  "gender": "Male",
+  "phoneNum": "8989678455",
+  "age": "28",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "zone": "North",
+  "sec": "D",
+  "categoryProductUsage": "Deodorant, Shampoo, Soap",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8e6526ddd15b46b3f0bd"
+  },
+  "uniqueID": "ID14",
+  "name": "Alex",
+  "gender": "Male",
+  "phoneNum": "8989678422",
+  "age": "27",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Shampoo, Conditioner, Shower Gel",
+  "ecomShopper": "Yes"
+},
+{
+  "_id": {
+    "$oid": "65dd8e6526ddd15b46b3f0be"
+  },
+  "uniqueID": "ID15",
+  "name": "Emily",
+  "gender": "Female",
+  "phoneNum": "8989678411",
+  "age": "29",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Facial Cleanser, Body Scrub, Lip Balm",
+  "ecomShopper": "No"
+},
+{
+  "_id": {
+    "$oid": "65dd8e6526ddd15b46b3f0bf"
+  },
+  "uniqueID": "ID16",
+  "name": "Ethan",
+  "gender": "Male",
+  "phoneNum": "8989678400",
+  "age": "33",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "zone": "South",
+  "sec": "C",
+  "categoryProductUsage": "Hair Gel, Perfume, Sunscreen",
+  "ecomShopper": "Yes"
+}]

@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0px 1px 4px 1px #ccc;   
+}
+.heading span{
+    font-family: 'Montserrat';
+    font-size: 25px;
+    font-weight:600;
+}
+.profile{
+    padding-inline: 2vh;
+}
+.navbarLogo img{
+    padding: 1vh;
+}
+
